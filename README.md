@@ -37,12 +37,12 @@ Subscription-based businesses face a critical challenge: **customer churn**. Acq
 ##  Features
 
 ### Technical Capabilities
-- ✅ **Advanced Feature Engineering** - 7 business-relevant features extracted from transactional data
-- ✅ **Imbalanced Data Handling** - SMOTE oversampling for minority class
-- ✅ **Cost-Benefit Optimization** - Decision threshold tuned for business economics, not just accuracy
-- ✅ **Customer Segmentation** - High-risk groups identified for targeted marketing
-- ✅ **Production Ready** - Serialized model artifacts for deployment
-- ✅ **Comprehensive Evaluation** - ROC-AUC, precision-recall curves, confusion matrix, feature importance
+-  **Advanced Feature Engineering** - 7 business-relevant features extracted from transactional data
+-  **Imbalanced Data Handling** - SMOTE oversampling for minority class
+-  **Cost-Benefit Optimization** - Decision threshold tuned for business economics, not just accuracy
+-  **Customer Segmentation** - High-risk groups identified for targeted marketing
+-  **Production Ready** - Serialized model artifacts for deployment
+-  **Comprehensive Evaluation** - ROC-AUC, precision-recall curves, confusion matrix, feature importance
 
 ### Business Features
 -  Dynamic decision threshold based on campaign costs and CLV
@@ -53,7 +53,7 @@ Subscription-based businesses face a critical challenge: **customer churn**. Acq
 ---
 
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Feature Engineering
 
@@ -118,7 +118,7 @@ Net Benefit = (True Positives × Success Rate × CLV) - (All Contacted × Campai
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Model Performance
 
@@ -149,13 +149,6 @@ Net Benefit = (True Positives × Success Rate × CLV) - (All Contacted × Campai
 
 
 
-## 👤 Author
-
-**[Aarjav Jain]**
-- 🎓 2nd Year Data Science & Economics Student, Krea University
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
 
 ---
 
