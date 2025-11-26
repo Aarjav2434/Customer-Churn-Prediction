@@ -136,7 +136,7 @@ Net Benefit = (True Positives × Success Rate × CLV) - (All Contacted × Campai
 
 **Without Model (Reactive Approach):**
 - Lose ~1,850 customers/year (26.5% churn rate)
-- 
+  
 **With Model (Proactive Retention):**
 - Contact 638 customers out of 1407
 - Campaign cost:  Rs319,000
